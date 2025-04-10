@@ -5,6 +5,8 @@ Released: July 2023
 OVERVIEW OF RELEASE
 ****************************************
 
+Added the sample code for testing
+
 Version 7.0.2 of the Services Standard Build (SSB) contains several updates, fixes and 
 enhancements.
 
